@@ -130,7 +130,6 @@ export default {
                             <div class="job">{{ $page.props.auth.user.last_name}}</div>
                         </div>
 
-
                     </div>
 
 
